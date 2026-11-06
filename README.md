@@ -2,15 +2,12 @@
 
 **Para o Teclado Mecânico Gamer Husky Hailstorm (Modelo TY69SKRGB - 68 Teclas ABNT2 / ANSI)**
 
----
-
 ## Sobre o Projeto
 
 Este projeto nasceu da engenharia reversa completa realizada no software oficial do teclado mecânico **Husky Hailstorm** (`Teclado Gamer Hailstorm.exe` da OEM TianYu / WitMod) utilizando o **REA (Reverse Engineer Anything)** integrado ao Antigravity.
 
 O software oficial original é limitado exclusivamente ao Windows e possui dependências pesadas do Qt5. Este novo painel foi construído do zero em Python com uma interface gráfica moderna, responsiva, fluida e com suporte multiplataforma para **Windows**, **Linux** e **macOS**, reproduzindo **100% de todas as funcionalidades e configurações do aplicativo original** e adicionando melhorias exclusivas (como pré-visualização de iluminação em tempo real tecla a tecla, suporte a JSON limpo e modo de simulação).
 
----
 
 ## Guia do REA (npx rea-agents setup) e Engenharia Reversa
 
@@ -42,7 +39,6 @@ npx.cmd -y rea-agents@6.8.0 doctor --client antigravity --json
   - Firmware Onboard: **V1.04.10**
   - Hardware Serial Number lido via hardware: `ccaba42cd0464b2fbdc89f760c569555`
 
----
 
 ## Protocolo USB HID Reverso
 
@@ -57,8 +53,6 @@ Todas as mensagens enviadas ao microcontrolador do teclado possuem 64 bytes:
 | `0x0F` | Write Color Chunk | `[0x01, 0x0F, target, 0, chunk_idx, length, R, G, B, ...]` | Transmite cores por tecla em blocos de até 18 teclas (54 bytes RGB). |
 | `0x17` | Apply / Commit | `[0x01, 0x17, 0, 0, 0, 1, 1, ...]` | Grava e ativa a iluminação configurada na memória volátil do teclado. |
 | `0x14` | Factory Reset | `[0x01, 0x14, 0, 0, 0, 0, 1, ...]` | Restaura a flash interna para as configurações de fábrica. |
-
----
 
 ## Funcionalidades do Aplicativo
 
@@ -110,8 +104,6 @@ Todas as mensagens enviadas ao microcontrolador do teclado possuem 64 bytes:
   - Exportação e Importação de JSON legível.
 - **Reset de Fábrica Onboard** com diálogo de segurança.
 
----
-
 ## Como Executar
 
 ### Pré-requisitos
@@ -147,8 +139,6 @@ python3 main.py
 ```
 *(Nota: Certifique-se de que o Terminal ou seu ambiente Python possua permissão em Preferências do Sistema -> Segurança e Privacidade -> Monitoramento de Entrada).*
 
----
-
 ## Estrutura do Código
 
 ```text
@@ -175,8 +165,6 @@ husky-storm/
 ├── main.py                  # Ponto de entrada do executável
 └── requirements.txt         # Dependências do projeto
 ```
-
----
 
 ## Licença
 Distribuído sob a licença MIT. Criado como substituto livre e de código aberto para a comunidade de teclados mecânicos.
