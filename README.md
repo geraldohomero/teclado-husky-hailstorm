@@ -1,5 +1,3 @@
-# Husky Hailstorm Control Center
-
 ### Driver Open-Source e Painel de Controle Multiplataforma (Windows, Linux, macOS)
 
 **Para o Teclado Mecânico Gamer Husky Hailstorm (Modelo TY69SKRGB - 68 Teclas ABNT2 / ANSI)**
