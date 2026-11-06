@@ -168,6 +168,4 @@ husky-storm/
 
 ## Licença
 Distribuído sob a licença MIT. Criado como substituto livre e de código aberto para a comunidade de teclados mecânicos.
-#   t e c l a d o - h u s k y - h a i l s t o r m 
- 
- 
+

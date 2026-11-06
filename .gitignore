@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build output
+build/
+dist/
+*.spec
+
+# Virtual Environments
+venv/
+env/
+.env/
+
+# IDE / Editor folders
+.vscode/
+.idea/
+
+# User profile caches / logs (preserve default templates if desired)
+*.log
