@@ -1,12 +1,12 @@
 # Husky Hailstorm Control Center
+
 ### Driver Open-Source e Painel de Controle Multiplataforma (Windows, Linux, macOS)
+
 **Para o Teclado Mecânico Gamer Husky Hailstorm (Modelo TY69SKRGB - 68 Teclas ABNT2 / ANSI)**
 
 ---
 
-
 ## Sobre o Projeto
-
 
 Este projeto nasceu da engenharia reversa completa realizada no software oficial do teclado mecânico **Husky Hailstorm** (`Teclado Gamer Hailstorm.exe` da OEM TianYu / WitMod) utilizando o **REA (Reverse Engineer Anything)** integrado ao Antigravity.
 
