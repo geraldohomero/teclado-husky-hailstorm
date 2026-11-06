@@ -1,0 +1,1913 @@
+5S0
+OTB
+QXo
+~yT
+~$$
+RUo
+XOJ
+yU}
+,Mj
+WbT
+C"%
+Ztn
+6ZG
+[1Y
+ColorWheelTool
+Bottom Color
+ColorWheelTool
+Bright
+ColorWheelTool
+Brightness
+ColorWheelTool
+Cancel
+ColorWheelTool
+ColorWheelTool
+ColorWheelTool
+Dark
+ColorWheelTool
+Direction
+ColorWheelTool
+Fast
+ColorWheelTool
+Full color
+ColorWheelTool
+ColorWheelTool
+ColorWheelTool
+ColorWheelTool
+Slow
+ColorWheelTool
+Speed
+ColorWheelTool
+Top Color
+ColorWheelTool
+DCatchKeyAndMouseItem
+99999 MS
+DCatchKeyAndMouseItem
+DCatchKeyAndMouseItem
+Center Click
+DCatchKeyAndMouseItem
+Form
+DCatchKeyAndMouseItem
+Left Click
+DCatchKeyAndMouseItem
+Right Click
+DCatchKeyAndMouseItem
+DCatchKeyAndMouseItem
+Assign proFile
+DChangProfilePage
+Cancel
+DChangProfilePage
+Form
+DChangProfilePage
+DChangProfilePage
+Cancel
+DChangeKeyPage
+Form
+DChangeKeyPage
+DChangeKeyPage
+Remap Key
+DChangeKeyPage
+Remap with key 
+DChangeKeyPage
+DCustomEventListItem
+Browser
+DCustomEventListItem
+Calculator
+DCustomEventListItem
+Close window
+DCustomEventListItem
+Computer
+DCustomEventListItem
+Context Menu
+DCustomEventListItem
+Continous playback on/off
+DCustomEventListItem
+Copy
+DCustomEventListItem
+Cut
+DCustomEventListItem
+Disable
+DCustomEventListItem
+Email
+DCustomEventListItem
+Find
+DCustomEventListItem
+Form
+DCustomEventListItem
+Lock computer
+DCustomEventListItem
+Macro:
+DCustomEventListItem
+Mouse Center
+DCustomEventListItem
+Mouse Left
+DCustomEventListItem
+Mouse Right
+DCustomEventListItem
+Mouse left side key-Back
+DCustomEventListItem
+Mouse left side key-Go
+DCustomEventListItem
+Mute
+DCustomEventListItem
+New
+DCustomEventListItem
+Next track
+DCustomEventListItem
+Open my computer
+DCustomEventListItem
+Play multiple times
+DCustomEventListItem
+Play once
+DCustomEventListItem
+"Play while assigned key is pressed
+DCustomEventListItem
+Play/Pause
+DCustomEventListItem
+Player
+DCustomEventListItem
+Prev track
+DCustomEventListItem
+Print
+DCustomEventListItem
+Profile:
+DCustomEventListItem
+Save
+DCustomEventListItem
+Show desktop
+DCustomEventListItem
+Stick
+DCustomEventListItem
+Stop
+DCustomEventListItem
+Unknow
+DCustomEventListItem
+Volume Down
+DCustomEventListItem
+Volume Up
+DCustomEventListItem
+Wheel Down
+DCustomEventListItem
+Wheel Up
+DCustomEventListItem
+Form
+DCustomEventListPage
+No custom features added
+DCustomEventListPage
+DCustomEventWidget
+DCustomEventWidget
+Custom Light Item
+DCustomLightListItem
+Form
+DCustomLightListItem
+Form
+DDeviceListItem
+KB112
+DDeviceListItem
+Product
+DDeviceListItem
+DDevicePage
+DDevicePage
+DDevicePage
+DDevicePage
+DDevicePage
+DDevicePage
+DDevicePage
+DDevicePage
+DDevicePage
+DDevicePage
+DDevicePage
+DDevicePage
+APP mode
+DDevicePage
+Add
+DDevicePage
+Add profile successful
+DDevicePage
+%App path
+D:/EditPlus 3/EditPlus.exe
+DDevicePage
+App(*.exe)
+DDevicePage
+Aurora
+DDevicePage
+Auto Ripple
+DDevicePage
+Backward
+DDevicePage
+Backward_L
+DDevicePage
+Backward_R
+DDevicePage
+Breath
+DDevicePage
+Browser
+DDevicePage
+Calculator
+DDevicePage
+Cancel
+DDevicePage
+Center Click
+DDevicePage
+Clean layer successful
+DDevicePage
+Close light successful
+DDevicePage
+Collision
+DDevicePage
+Computer
+DDevicePage
+Config name can't be empty
+DDevicePage
+Continous playback on/off
+DDevicePage
+Create new config successful
+DDevicePage
+Cross
+DDevicePage
+-Currently in On-board mode, please exit first
+DDevicePage
+Custom
+DDevicePage
+Custom List
+DDevicePage
+ Custom light name can't be empty
+DDevicePage
+DPI
+DDevicePage
+DPI Config
+DDevicePage
+Default
+DDevicePage
+Default layer
+DDevicePage
+Delete config successful
+DDevicePage
+Delete profile successful
+DDevicePage
+Device not connected
+DDevicePage
+Disable
+DDevicePage
+'Do you want to keep the FN key setting?
+DDevicePage
+(Do you want to keep the FN1 key setting?
+DDevicePage
+Download
+DDevicePage
+(Download config failed, Please try again
+DDevicePage
+Download config successful
+DDevicePage
+Dpi Loop
+DDevicePage
+Email
+DDevicePage
+Empty
+DDevicePage
+Empty the key successful
+DDevicePage
+Export profile successful
+DDevicePage
+FN(
+DDevicePage
+FN1 layer
+DDevicePage
+Fast config successful
+DDevicePage
+Fireworks
+DDevicePage
+Form
+DDevicePage
+Forward
+DDevicePage
+Forward_L
+DDevicePage
+Forward_R
+DDevicePage
+Import
+DDevicePage
+Import profile successful
+DDevicePage
+Key Custom
+DDevicePage
+Keyboard
+DDevicePage
+Keyboard Name
+DDevicePage
+Launch application
+DDevicePage
+Left Click
+DDevicePage
+Light Setting
+DDevicePage
+Light Synchronize
+DDevicePage
+Lighting Effect
+DDevicePage
+Link profile to program
+DDevicePage
+Log infomsg
+DDevicePage
+Macro
+DDevicePage
+Modify config name successful
+DDevicePage
+#Modify custom light name successful
+DDevicePage
+Modify profile info successful
+DDevicePage
+Mouse
+DDevicePage
+Mouse Center
+DDevicePage
+Mouse Left
+DDevicePage
+Mouse Right
+DDevicePage
+Multimedia
+DDevicePage
+Musical Rhythm
+DDevicePage
+Mute
+DDevicePage
+Need keep at least one config
+DDevicePage
+Need keep at least one profile
+DDevicePage
+Neon
+DDevicePage
+Next track
+DDevicePage
+DDevicePage
+DDevicePage
+Onboard Editor
+DDevicePage
+Open light successful
+DDevicePage
+Open profile file
+DDevicePage
+Operate successful
+DDevicePage
+Performance
+DDevicePage
+Play multiple times
+DDevicePage
+Play once
+DDevicePage
+"Play while assigned key is pressed
+DDevicePage
+Play/Pause
+DDevicePage
+Player
+DDevicePage
+Please open hid first!
+DDevicePage
+Please select import file first
+DDevicePage
+Please select one Key first!
+DDevicePage
+"Please select save directory first
+DDevicePage
+Prev track
+DDevicePage
+Product
+DDevicePage
+Profile 1
+DDevicePage
+Profile Group 
+DDevicePage
+Profile Name
+DDevicePage
+Profile files(*.xml)
+DDevicePage
+Profile name
+DDevicePage
+Profile name can't empty
+DDevicePage
+Radar
+DDevicePage
+Reactive
+DDevicePage
+Remap key
+DDevicePage
+$Reset the current profile successful
+DDevicePage
+Restore config successful
+DDevicePage
+Restore factory settings
+DDevicePage
+'Restore the factory settings successful
+DDevicePage
+Right Click
+DDevicePage
+Ripple
+DDevicePage
+Save directory
+DDevicePage
+Scroll Down
+DDevicePage
+Scroll Up
+DDevicePage
+Select application
+DDevicePage
+Select exe
+DDevicePage
+Set FN key successful
+DDevicePage
+Set FN1
+DDevicePage
+Set FN1 key successful
+DDevicePage
+Set light effect successfully
+DDevicePage
+Shortcuts
+DDevicePage
+Side Light
+DDevicePage
+Snack
+DDevicePage
+Sniper Key
+DDevicePage
+Soft Keyboard
+DDevicePage
+Speed Respond
+DDevicePage
+Static
+DDevicePage
+Stop
+DDevicePage
+Striation
+DDevicePage
+Switch profile
+DDevicePage
+Text
+DDevicePage
+"The device is not support On-board
+DDevicePage
+-The number of profile has reached the maximum
+DDevicePage
+Tip
+DDevicePage
+Twinkle
+DDevicePage
+Unknow
+DDevicePage
+Volume Down
+DDevicePage
+Volume Up
+DDevicePage
+Wave
+DDevicePage
+%Whether to reset the current profile?
+DDevicePage
+(Whether to restore the factory settings?
+DDevicePage
+Yes
+DDevicePage
+key combination
+DDevicePage
+DDevicePage
+22000
+DDpiConfigListItem
+600
+DDpiConfigListItem
+9999
+DDpiConfigListItem
+DDpiConfigListItem
+DDpiConfigListItem
+Sniper
+DDpiConfigListItem
+X/Y:
+DDpiConfigListItem
+DDpiConfigListItem
+DDpiConfigListItem
+DFirwareInfoItem
+DFirwareInfoItem
+Mar 26 2020,20:50:50
+DFirwareInfoItem
+NUC,01,KB,WM,K188RGB,V1.0.0
+DFirwareInfoItem
+DFirwareInfoShow
+DFirwareInfoShow
+Firmware Info
+DFirwareInfoShow
+DHomeDeviceListItem
+DHomeDeviceListItem
+My Keyboard Name
+DHomeDeviceListItem
+Product
+DHomeDeviceListItem
+DHomeDeviceListWidget
+DHomeDeviceListWidget
+<span style="font-family:"%3";font-size:14pt; color:#ff6666;"></span><a href="Company|%1|"><span style="font-size:14pt; text-decoration:underline; color:rgb(%2);">%1</span>
+DHomePage
+Device not connected
+DHomePage
+Form
+DHomePage
+https://witmod.com/
+DHomePage
+Cancel
+DHotKeyPage
+Close window
+DHotKeyPage
+Copy
+DHotKeyPage
+Cut
+DHotKeyPage
+Find
+DHotKeyPage
+Form
+DHotKeyPage
+Lock computer
+DHotKeyPage
+New
+DHotKeyPage
+DHotKeyPage
+Open my computer
+DHotKeyPage
+Print
+DHotKeyPage
+Save
+DHotKeyPage
+Shortcuts
+DHotKeyPage
+Show desktop
+DHotKeyPage
+Stick
+DHotKeyPage
+Cancel
+DKeyCombinationPage
+Enter key
+DKeyCombinationPage
+Form
+DKeyCombinationPage
+DKeyCombinationPage
+key combination
+DKeyCombinationPage
+DKeyDisablePage
+Cancel
+DKeyDisablePage
+Disable Key
+DKeyDisablePage
+Form
+DKeyDisablePage
+Key is disable
+DKeyDisablePage
+DKeyDisablePage
+%App path
+D:/EditPlus 3/EditPlus.exe
+DKeyWithAppPage
+App(*.exe)
+DKeyWithAppPage
+Cancel
+DKeyWithAppPage
+Form
+DKeyWithAppPage
+DKeyWithAppPage
+Select app
+DKeyWithAppPage
+Select application
+DKeyWithAppPage
+Select exe
+DKeyWithAppPage
+Cancel
+DKeyWithTextPage
+Enter text ...
+DKeyWithTextPage
+Form
+DKeyWithTextPage
+DKeyWithTextPage
+Text
+DKeyWithTextPage
+Form
+DLinkagePage
+Linkage
+DLinkagePage
+Form
+DLoginWidget
+Login
+DLoginWidget
+Assign Macro
+DMacroCmdPage
+Cancel
+DMacroCmdPage
+Continous playback on/off
+DMacroCmdPage
+Form
+DMacroCmdPage
+DMacroCmdPage
+Play Number
+DMacroCmdPage
+Play Number 1,2,3...
+DMacroCmdPage
+Play Type
+DMacroCmdPage
+Play multiple times
+DMacroCmdPage
+Play once
+DMacroCmdPage
+"Play while assigned key is pressed
+DMacroCmdPage
+Binding
+DMacroListItem
+Form
+DMacroListItem
+Macro01
+DMacroListItem
+DMacroPage
+0 MS
+DMacroPage
+100
+DMacroPage
+Add
+DMacroPage
+Add macro successful
+DMacroPage
+Center Click
+DMacroPage
+Clear
+DMacroPage
+Clear record macro successful
+DMacroPage
+Default delay
+DMacroPage
+Delay
+DMacroPage
+Delay setting
+DMacroPage
+Delete macro successful
+DMacroPage
+Down
+DMacroPage
+Event
+DMacroPage
+Export macro successful
+DMacroPage
+Form
+DMacroPage
+Import
+DMacroPage
+Import macro successful
+DMacroPage
+Insert
+DMacroPage
+Insert Macro
+DMacroPage
+Insert event after
+DMacroPage
+Insert event before
+DMacroPage
+Insert successful
+DMacroPage
+Keyboard Event
+DMacroPage
+Left Click
+DMacroPage
+DMacroPage
+Macro Group 
+DMacroPage
+Macro files(*.xml)
+DMacroPage
+Macro name can't be empty
+DMacroPage
+Macro record
+DMacroPage
+Modify
+DMacroPage
+Modify macro name successful
+DMacroPage
+Modify successful
+DMacroPage
+Mouse
+DMacroPage
+Mouse Event
+DMacroPage
+No delay
+DMacroPage
+Open macro file
+DMacroPage
+Operate
+DMacroPage
+Please enter a key
+DMacroPage
+Please enter delay number
+DMacroPage
+Please select a macro first
+DMacroPage
+'Please select a specific location first
+DMacroPage
+"Please select save directory first
+DMacroPage
+Position
+DMacroPage
+Press Key
+DMacroPage
+Property
+DMacroPage
+Record
+DMacroPage
+Record is empty
+DMacroPage
+Recording delay
+DMacroPage
+Right Click
+DMacroPage
+Save directory
+DMacroPage
+Start record macro
+DMacroPage
+Stop
+DMacroPage
+Stop record macro
+DMacroPage
+*The record of events has reached the limit
+DMacroPage
+DMacroPage
+DEVICE
+DMainWidget
+DMainWidget
+DMainWidget
+HOME
+DMainWidget
+LINKAGE
+DMainWidget
+MACRO
+DMainWidget
+Maximize(&X)
+DMainWidget
+Minimize(&N)
+DMainWidget
+Quit(&Q)
+DMainWidget
+Revert(&R)
+DMainWidget
+WITMOD
+DMainWidget
+Cancel
+DMouseKeyPage
+Form
+DMouseKeyPage
+Mouse Center
+DMouseKeyPage
+Mouse Key
+DMouseKeyPage
+Mouse Left
+DMouseKeyPage
+Mouse Right
+DMouseKeyPage
+Mouse left side key-Back
+DMouseKeyPage
+Mouse left side key-Go
+DMouseKeyPage
+DMouseKeyPage
+Sniper Key
+DMouseKeyPage
+Wheel Down
+DMouseKeyPage
+Wheel Up
+DMouseKeyPage
+DMouseLightPage
+DMouseLightPage
+Light Around
+DMouseLightPage
+Logo
+DMouseLightPage
+Scroll
+DMouseLightPage
+Backward
+DMousePage
+Backward_L
+DMousePage
+Backward_R
+DMousePage
+Browser
+DMousePage
+Calculator
+DMousePage
+Center Click
+DMousePage
+Close window
+DMousePage
+Computer
+DMousePage
+Continous playback on/off
+DMousePage
+Copy
+DMousePage
+Cut
+DMousePage
+DMousePage
+DMousePage
+Disable
+DMousePage
+Dpi Loop
+DMousePage
+Email
+DMousePage
+Find
+DMousePage
+Forward
+DMousePage
+Forward_L
+DMousePage
+Forward_R
+DMousePage
+Left Click
+DMousePage
+Lock computer
+DMousePage
+Mouse Center
+DMousePage
+Mouse Left
+DMousePage
+Mouse Right
+DMousePage
+Mute
+DMousePage
+New
+DMousePage
+Next track
+DMousePage
+Open my computer
+DMousePage
+Play multiple times
+DMousePage
+Play once
+DMousePage
+"Play while assigned key is pressed
+DMousePage
+Play/Pause
+DMousePage
+Player
+DMousePage
+Prev track
+DMousePage
+Print
+DMousePage
+Right Click
+DMousePage
+Save
+DMousePage
+Scroll Down
+DMousePage
+Scroll Up
+DMousePage
+Show desktop
+DMousePage
+Sniper Key
+DMousePage
+Stick
+DMousePage
+Stop
+DMousePage
+Unknow
+DMousePage
+Volume Down
+DMousePage
+Volume Up
+DMousePage
+1000Hz
+DMousePerformanceView
+125Hz
+DMousePerformanceView
+250Hz
+DMousePerformanceView
+500Hz
+DMousePerformanceView
+DMousePerformanceView
+DMousePerformanceView
+Mouse Properties:
+DMousePerformanceView
+Reset current profile
+DMousePerformanceView
+Windows mouse Properties
+DMousePerformanceView
+Browser
+DMultimediaPage
+Calculator
+DMultimediaPage
+Cancel
+DMultimediaPage
+Computer
+DMultimediaPage
+Email
+DMultimediaPage
+Form
+DMultimediaPage
+Multimedia
+DMultimediaPage
+Mute
+DMultimediaPage
+Next track
+DMultimediaPage
+DMultimediaPage
+Play/Pause
+DMultimediaPage
+Player
+DMultimediaPage
+Prev track
+DMultimediaPage
+Stop
+DMultimediaPage
+Volume Down
+DMultimediaPage
+Volume Up
+DMultimediaPage
+DOnboardPage
+DOnboardPage
+Default
+DOnboardPage
+Disable
+DOnboardPage
+Empty
+DOnboardPage
+Launch application
+DOnboardPage
+Macro
+DOnboardPage
+Mouse
+DOnboardPage
+Multimedia
+DOnboardPage
+Remap key
+DOnboardPage
+Shortcuts
+DOnboardPage
+Switch profile
+DOnboardPage
+Text
+DOnboardPage
+Unknow
+DOnboardPage
+key combination
+DOnboardPage
+Disable ALT+F4
+DPerformancePage
+Disable ALT+TAB
+DPerformancePage
+Disable SHIFT+TAB
+DPerformancePage
+Disable Windows key
+DPerformancePage
+Form
+DPerformancePage
+If Win Lock is on:
+DPerformancePage
+Reset current profile
+DPerformancePage
+Wimdows Keyboard Properties
+DPerformancePage
+DResetDefaultPage
+Cancel
+DResetDefaultPage
+Default
+DResetDefaultPage
+Form
+DResetDefaultPage
+DResetDefaultPage
+<span style="font-family:"%3";font-size:12pt; color:#ff6666;"></span><a href="Company|%1|"><span style="font-size:12pt; text-decoration:underline; color:rgb(%2);">%1</span>
+DSettingsDia
+About
+DSettingsDia
+Application software
+DSettingsDia
+Auto start
+DSettingsDia
+Background image
+DSettingsDia
+Blue
+DSettingsDia
+Check Update
+DSettingsDia
+Close startup to tray
+DSettingsDia
+HCopyright
+2020 Witmod Technology (Shenzhen) Inc. . All rights reserved.
+DSettingsDia
+DSettingsDia
+DSettingsDia
+Dark
+DSettingsDia
+Firmware upgrade check
+DSettingsDia
+General
+DSettingsDia
+Language
+DSettingsDia
+6Launch applications when the system starts (Minimized)
+DSettingsDia
+Light
+DSettingsDia
+Link
+DSettingsDia
+Minimize startup to tray
+DSettingsDia
+No upgradeable devices found
+DSettingsDia
+Other
+DSettingsDia
+Pink
+DSettingsDia
+SendFeedback
+DSettingsDia
+Set config success
+DSettingsDia
+Settings
+DSettingsDia
+Support
+DSettingsDia
+Taobao Link
+DSettingsDia
+Theme
+DSettingsDia
+Upgrade
+DSettingsDia
+V_2020.03.17.0001
+DSettingsDia
+Witmod
+DSettingsDia
+Form
+DSoftKeyboardPage
+DSoftKeyboardPage
+DSoftKeyboardPage
+DTipInfoDia
+DTipInfoDia
+Discard
+DTipInfoDia
+9Do you want to save the current light mode to the device?
+DTipInfoDia
+Save
+DTipInfoDia
+Tip
+DTipInfoDia
+DUpdateFirmwareDia
+DUpdateFirmwareDia
+<If the firmware is being upgraded, do not unplug the device!
+DUpdateFirmwareDia
+Upgrade Firmware
+DUpdateFirmwareDia
+Upgrade failed
+DUpdateFirmwareDia
+Upgrade successful
+DUpdateFirmwareDia
+100
+DmouseConfigView
+99999
+DmouseConfigView
+DmouseConfigView
+DmouseConfigView
+DmouseConfigView
+Enable X/Y
+DmouseConfigView
+DmouseConfigView
+DmouseConfigView
+DmouseConfigView
+DmouseConfigView
+Exe Crash
+QObject
+ I'm very sorroy for this crash !
+QObject
+#%1%2%3
+SVColorArea
+SVColorArea
+%1, %2, %3
+SVColorArea
+Chinese
+SoftKeyboardButCustom
+Korean/English
+SoftKeyboardButCustom
+100%
+UpdateFirmwareInfoItem
+Complete
+UpdateFirmwareInfoItem
+Current version:
+UpdateFirmwareInfoItem
+Default LikeName
+UpdateFirmwareInfoItem
+Like name:
+UpdateFirmwareInfoItem
+New version:
+UpdateFirmwareInfoItem
+UpdateFirmwareInfoItem
+UpdateFirmwareInfoItem
+Upgrade
+UpdateFirmwareInfoItem
+Upgrade progress:
+UpdateFirmwareInfoItem
+V1.00.00
+UpdateFirmwareInfoItem
+V1.00.11
+UpdateFirmwareInfoItem
+Form
+keyboardImagePage
+Browser
+keyboardKeyTool
+Calculator
+keyboardKeyTool
+Cannot be remapped
+keyboardKeyTool
+Close window
+keyboardKeyTool
+Computer
+keyboardKeyTool
+Continous playback on/off
+keyboardKeyTool
+Copy
+keyboardKeyTool
+Cut
+keyboardKeyTool
+Default
+keyboardKeyTool
+Disable
+keyboardKeyTool
+Email
+keyboardKeyTool
+Find
+keyboardKeyTool
+Launch application
+keyboardKeyTool
+Lock computer
+keyboardKeyTool
+Macro
+keyboardKeyTool
+Mouse
+keyboardKeyTool
+Mouse Center
+keyboardKeyTool
+Mouse Left
+keyboardKeyTool
+Mouse Right
+keyboardKeyTool
+Mouse left side key-Back
+keyboardKeyTool
+Mouse left side key-Go
+keyboardKeyTool
+Multimedia
+keyboardKeyTool
+Mute
+keyboardKeyTool
+New
+keyboardKeyTool
+Next track
+keyboardKeyTool
+Open my computer
+keyboardKeyTool
+Play multiple times
+keyboardKeyTool
+Play once
+keyboardKeyTool
+"Play while assigned key is pressed
+keyboardKeyTool
+Play/Pause
+keyboardKeyTool
+Player
+keyboardKeyTool
+Prev track
+keyboardKeyTool
+Print
+keyboardKeyTool
+Profile:
+keyboardKeyTool
+Remap key
+keyboardKeyTool
+Save
+keyboardKeyTool
+Shortcuts
+keyboardKeyTool
+Show desktop
+keyboardKeyTool
+Stick
+keyboardKeyTool
+Stop
+keyboardKeyTool
+Switch profile
+keyboardKeyTool
+Text
+keyboardKeyTool
+Unknow
+keyboardKeyTool
+Volume Down
+keyboardKeyTool
+Volume Up
+keyboardKeyTool
+Wheel Down
+keyboardKeyTool
+Wheel Up
+keyboardKeyTool
+key combination
+keyboardKeyTool
+Form
+keyboardPage
+keyboardPage
+keyboardPage
+Delete
+macroMenuToolWidget
+Export
+macroMenuToolWidget
+Form
+macroMenuToolWidget
+Modify Name
+macroMenuToolWidget
+About Witmod
+mainMenuToolWidget
+Form
+mainMenuToolWidget
+Setting
+mainMenuToolWidget
+!1.Select a key and set it to FN1.
+onboardExplainDia
+]<html><head/><body><p>2.Send the code by combining with the custom FN1 key.</p></body></html>
+onboardExplainDia
+<html><head/><body><p>In app mode, the function of button customization can only be used when the app is opened. The customized content can only be saved on the computer, and it does not support downloading to the keyboard.</p></body></html>
+onboardExplainDia
+P<html><head/><body><p>Press the key directly to send the code.</p></body></html>
+onboardExplainDia
+<html><head/><body><p>The key can be downloaded and saved to the keyboard according to the customized content. The board can be divided into two layers, the default layer and the FN1 layer.</p></body></html>
+onboardExplainDia
+APP mode:
+onboardExplainDia
+Default Layer.
+onboardExplainDia
+Default layer:
+onboardExplainDia
+)FN Layer 
+ Factory Preset FN functions.
+onboardExplainDia
+ FN1 Layer 
+ Can be customized.
+onboardExplainDia
+FN1 layer:
+onboardExplainDia
+AIn onboard editing mode, the interactive light effect is invalid.
+onboardExplainDia
+Layers:
+onboardExplainDia
+Onboard Editor:
+onboardExplainDia
+onboardExplainDia
+onboardExplainDia
+Cannot be remapped
+onboardKeyboardKeyTool
+Default
+onboardKeyboardKeyTool
+Clean layer
+onboardProfileMenuToolWidget
+Create New
+onboardProfileMenuToolWidget
+Delete
+onboardProfileMenuToolWidget
+Dvorak
+onboardProfileMenuToolWidget
+Export
+onboardProfileMenuToolWidget
+Import
+onboardProfileMenuToolWidget
+Mac
+onboardProfileMenuToolWidget
+Modify Name
+onboardProfileMenuToolWidget
+QWERTY
+onboardProfileMenuToolWidget
+Restore
+onboardProfileMenuToolWidget
+onboardProfileMenuToolWidget
+onboardProfileMenuToolWidget
+Delete
+proFileOperateMenuToolWidget
+Export
+proFileOperateMenuToolWidget
+Form
+proFileOperateMenuToolWidget
+Modify Name
+proFileOperateMenuToolWidget
+Profile01
+profileListItem
+profileListItem
+profileListItem
+Cor na bas
+Clar
+Brilh
+Cancela
+Escur
+Dire
+pid
+Cor integra
+Lent
+Velocidad
+Cor no top
+Clique centra
+Clique esqued
+Clique direit
+Atribuir Perfi
+Cancela
+Cancela
+Remaapear tecl
+(Remapear com tecla 
+Navegado
+Calculador
+Fechar Janel
+Meu computado
+4Execu
+o cont
+nua (on/off
+Copia
+Corta
+Desabilita
+Correi
+Procura
+&Bloquear computado
+Macro
+Mouse, centr
+Mouse, esquerd
+Mouse, direit
+Retrocede
+Avan
+Mud
+Nov
+xim
+,Desbloquear computado
+0Executar multiplas veze
+ Executar uma ve
+BExecutar quando tecla pressionad
+Executar/Pausa
+Jogado
+Anterio
+Imprimi
+Perfil
+Salva
+0Mostrar 
+rea de Trabalh
+Cola
+Para
+Desconhecid
+Diminuir Volum
+Aumentar Volum
+ Rolar para baix
+Rolar para cim
+JSem adi
+o de Recursos personalizado
+Modo de AP
+Adiciona
+"Perfil adicionad
+Caminh
+"Aplica
+o (*.exe
+Auror
+Auto Rippl
+Rato atr
+Rato atr
+Rato atr
+Respir
+Navegado
+Calculador
+Cancela
+Clique centra
+2Limpar camada com SUCESS
+@Desligamento de luz bem sucedid
+Colis
+Meu computado
+NNome de configura
+o n
+o Pode ser vazi
+4Execu
+o cont
+nua (on/off
+TA Nova configura
+o FOI criada com SUCESS
+Cruzament
+hAtualmente EM modo de bordo, por favor Saia primeir
+Personalizad
+"Lista customizad
+HO nome customizado n
+o pode ser nul
+&Configura
+o do DP
+Padr
+Camada padr
+PA configura
+o FOI suprimida com SUCESS
+>Exclus
+o de perfil bem sucedid
+2Dispositivo n
+o conectad
+Desabilita
+NQuer Manter a configura
+o Da chave FN
+PQuer Manter a configura
+o Da chave FN1
+Downloa
+dFalha Na configura
+o do download. Tente novament
+@Obter a configura
+o com SUCESS
+Circuito DP
+Correi
+Vazi
+6Esvazie a chave com SUCESS
+BExporta
+o de perfil bem sucedid
+Camada FN
+@Configura
+o r
+pida BEM sucedid
+Firework
+ Rato para Frent
+$Rato para Frente_
+$Rato para Frente_
+Importa
+ Perfil importad
+Customiza
+Teclad
+ Lan
+ar Aplica
+Clique esqued
+&Configura
+o de lu
+Sincronizar lu
+Efeito de lu
+0Ligar perfil ao program
+Macr
+VNome de configura
+o modificado com SUCESS
+@Modifica
+o de nome bem sucedid
+"Perfil modificad
+Mous
+Mouse, centr
+Mouse, esquerd
+Mouse, direit
+Multm
+tmo musica
+Mud
+XPelo Menos UMA configura
+o deve ser mantid
+LNecess
+rio manter pelo menos um perfi
+Neo
+xim
+Editor de bord
+6Liga
+o de luz bem sucedid
+0Abrir ficheiro de perfi
+*Opera
+o bem sucedid
+Performanc
+0Executar multiplas veze
+ Executar uma ve
+BExecutar quando tecla pressionad
+Executar/Pausa
+Jogado
+6Por favor, abra o HID ante
+PPor favor, selecione o perfil a importa
+HPor favor, selecione uma tecla ante
+HPor favor, selecione uma pasta ante
+Anterio
+Grupo do perfi
+Nome do grup
+6Ficheiros de perfil (*.xml
+Nome do grup
+BNome de perfil n
+o pode ser vazi
+Rada
+Reactiv
+Remapear tecl
+DRedefini
+o de perfil bem sucedid
+FConfigura
+o restaurada com SUCESS
+.Restaurar configura
+\Configura
+o Da f
+brica restaurada com SUCESS
+Clique direit
+Ondula
+&Guardar o diret
+ Rolar para baix
+Roda para CIM
+(Selecionar aplica
+.Selecionar o execut
+<Definir a Tecla FN com SUCESS
+Definir FN
+>Definir a Tecla FN1 com SUCESS
+2Efeito de luz configurad
+Atalho
+Luz latera
+Cobr
+"Chave de atirado
+Teclado suav
+.Responsivo 
+ velocidad
+Stati
+Para
+Snak
+Mudar perfi
+Text
+RO dispositivo n
+o suporta fun
+es a Bord
+TO n
+mero de configura
+es atingiu o m
+xim
+Dic
+Cintila
+Desconhecid
+Diminuir Volum
+Aumentar Volum
+Ond
+2Redefinir o perfil atual
+FRestaurar configura
+es de f
+brica
+(Combina
+o de Tecla
+Snipin
+.Informa
+es de firmwar
+2Dispositivo n
+o conectad
+Cancela
+Fechar Janel
+Copia
+Corta
+Procura
+&Bloquear computado
+Nov
+,Desbloquear computado
+Imprimi
+Salva
+Atalho
+0Mostrar 
+rea de Trabalh
+Cola
+Cancela
+Inserir tecla 
+&Combina
+o de tecl
+Cancela
+"Desabilitar tecl
+"Desabilitar tecl
+Caminh
+"Aplicativo (.exe
+Cancela
+(Selecionar aplica
+(Selecionar aplica
+(Seleciona execut
+Cancela
+Inserir text
+Text
+Atribuir macr
+Cancela
+4Execu
+o cont
+nua (on/off
+Executar n
+mer
+.Executar n
+mero 1, 2, 
+Executa
+0Executar multiplas veze
+ Executar uma ve
+BExecutar quando tecla pressionad
+Adiciona
+8Adi
+o de macro bem sucedid
+Clique centra
+Limpa
+@Limpeza de grava
+o bem sucedid
+Delay padr
+Dela
+*configura
+o de dela
+*Exclus
+o bem sucedid
+Baix
+Event
+.Exporta
+o bem sucedid
+Importa
+@Importa
+o de macro bem sucedid
+Inseri
+Inserir macr
+*Inserir evento depoi
+(Inserir evento ante
+*Inser
+o bem sucedid
+"Evento de teclad
+Clique esqued
+Grupo de macr
+2Arquivos de macro (*.xml
+BO nome da macro n
+o pode ser nul
+"Grava
+o de macr
+Modifica
+@Modifica
+o de nome bem sucedid
+0Modifica
+o bem sucedid
+Mous
+Evento de mous
+Sem dela
+,Abrir arquivo de macr
+Oepra
+6Por favor, insira uma tecl
+FPor favor insira um n
+mero de dela
+HPor favor, selecione uma macro ante
+jPor favor, selecione uma localiza
+o espec
+fica ante
+HPor favor, selecione uma pasta ante
+Posi
+ Pressionar tecl
+Propriedade
+Grava
+*A grava
+o est
+ vazi
+"Delay de grava
+Clique direit
+Salvar past
+,Come
+ar a gravar macr
+Para
+*Parar de gravar macr
+PA grava
+o de eventos atingiu seu limit
+Cim
+Dispositiv
+Liga
+Macr
+Maximizar(&X
+Minimizar(&N
+Sair(&Q
+Reverter(&R
+Cancela
+Mouse, centr
+Bot
+o do mous
+Mouse, esquerd
+Mouse, direit
+Retrocede
+Avan
+"Chave de atirado
+ Rolar para baix
+Rolar para cim
+ Luz de atmosfer
+Luz de log
+tip
+mpada de rolo
+Rato atr
+Rato atr
+Rato atr
+Navegado
+Calculador
+Clique centra
+Fechar Janel
+Meu computado
+4Execu
+o cont
+nua (on/off
+Copia
+Corta
+Desabilita
+Circuito DP
+Correi
+Procura
+ Rato para Frent
+$Rato para Frente_
+$Rato para Frente_
+Clique esqued
+&Bloquear computado
+Mouse, centr
+Mouse, esquerd
+Mouse, direit
+Mud
+Nov
+xim
+,Desbloquear computado
+0Executar multiplas veze
+ Executar uma ve
+BExecutar quando tecla pressionad
+Executar/Pausa
+Jogado
+Anterio
+Imprimi
+Clique direit
+Salva
+ Rolar para baix
+Roda para CIM
+0Mostrar 
+rea de Trabalh
+"Chave de atirado
+Cola
+Para
+Desconhecid
+Diminuir Volum
+Aumentar Volum
+*Propriedades do rato
+,Redefinir perfil atua
+DAbrir janelas Propriedades do rat
+Navegado
+Calculador
+Cancela
+Meu computado
+Correi
+Multm
+Mud
+xim
+Executar/Pausa
+Jogado
+Anterio
+Para
+Diminuir Volum
+Aumentar Volum
+Padr
+Desabilita
+Vazi
+ Lan
+ar Aplica
+Macr
+Mous
+Multm
+Remapear tecl
+Atalho
+Mudar perfi
+Text
+Desconhecid
+(Combina
+o de Tecla
+$Desabilitar ALT+F
+*Desabilitar ALT + TA
+.Desabilitar SHIFT + TA
+8Desabilitar Tecla do Window
+8Se o Bloqueio estiver ativo
+,Redefinir perfil atua
+.Propriedades de teclad
+Cancela
+Padr
+Sobr
+0Inicializa
+o autom
+tic
+Imagem de Fund
+Azu
+,Verificar atualiza
+TFechar inicializa
+o para barra de tarefa
+Escur
+.Verifica
+o de firmwar
+Gera
+ngu
+JMinimizar para a barra de ferramenta
+Cor Clar
+BMinimizar para a barra de tarefa
+o foram detectados dispositivos actualiz
+vei
+Outro
+Ros
+Feedbac
+2Configura
+o bem sucedid
+Configura
+Apoio t
+cnic
+Liga
+o Taoba
+Tem
+Actualiza
+Desisti
+tVoc
+ deseja salvar o modo de Luz atual para o dispositivo
+Salva
+Dic
+Se o firmware est
+ sendo atualizado, n
+o desligue o dispositivo
+0Actualiza
+o do firmwar
+*A actualiza
+o falho
+2Actualiza
+o BEM sucedid
+Ligar X/
+"Sa
+da de softwar
+HConflito, software fora de opera
+Complet
+Vers
+o actual
+Alias
+Nova vers
+Actualiza
+Progresso
+Navegado
+Calculador
+o FOI poss
+vel refaze
+Fechar Janel
+Meu computado
+4Execu
+o cont
+nua (on/off
+Copia
+Corta
+Padr
+Desabilita
+Correi
+Procura
+ Lan
+ar Aplica
+&Bloquear computado
+Macr
+Mous
+Mouse, centr
+Mouse, esquerd
+Mouse, direit
+Retrocede
+Avan
+Multm
+Mud
+Nov
+xim
+,Desbloquear computado
+0Executar multiplas veze
+ Executar uma ve
+BExecutar quando tecla pressionad
+Executar/Pausa
+Jogado
+Anterio
+Imprimi
+Perfil
+Remapear tecl
+Salva
+Atalho
+0Mostrar 
+rea de Trabalh
+Cola
+Para
+Mudar perfi
+Text
+Desconhecid
+Diminuir Volum
+Aumentar Volum
+ Rolar para baix
+Rolar para cim
+(Combina
+o de Tecla
+Deleta
+Exporta
+Modificar nom
+Sobr
+Configura
+Z1.Selecione UMA chave e configure-a para FN1
+<html><head/><body><p>2.Enviar o c
+digo combinando com a chave FN1 personalizada.</p></body></html
+<html><head/><body><p>As personaliza
+es feitas Neste modo de aplica
+o ser
+o salvas no SEU computador, n
+o no teclado.</p></body></html
+<html><head/><body><p>Pressione a chave diretamente para enviar o c
+digo.</p></body></html
+<html><head/><body><p>Quando estiver no modo de edi
+o a bordo, clique EM efeitos de Luz (como Aurora, ondula
+es, clique, crosshairs, fogos de artif
+cio, resposta de taxa) n
+o ir
+ Exibir seus efeitos no teclado.</p></body></html
+$Modo de aplica
+Camada padr
+Camada padr
+JCamada FN: fun
+o fixa Da f
+brica FN
+6Camada FN1: personaliz
+vel
+Camada FN1
+As personaliza
+es feitas Neste modo s
+o salvas no teclado.(mem
+ria de bordo
+Camadas
+ Editor de bordo
+o FOI poss
+vel refaze
+Padr
+Camada vazi
+ Rec
+m-constru
+Deleta
+Exporta
+Importa
+Modificar nom
+Recupera
+Deleta
+Exporta
+Modificar nom
